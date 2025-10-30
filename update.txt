@@ -1,0 +1,2 @@
+# Quick Thoughts
+Introduce TypeScript interfaces for core data models
